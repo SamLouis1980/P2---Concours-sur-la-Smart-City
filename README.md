@@ -31,4 +31,4 @@ Le projet a été réalisé en Python à l’aide des bibliothèques suivantes :
 
 - notebook.ipynb            - Analyse exploratoire complète (avec commentaires)
 - presentation.pptx         - Présentation synthétique des résultats
-- README.md                 - Ce fichier de documentation
+- README.md
