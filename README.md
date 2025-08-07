@@ -16,7 +16,7 @@ L’objectif est de fournir une **synthèse claire**, illustrée par des **visua
 
 ---
 
-## 🛠 Technologies utilisées
+##  Technologies utilisées
 
 Le projet a été réalisé en Python à l’aide des bibliothèques suivantes :
 
